@@ -1,4 +1,3 @@
-3way-switch
-===========
+# 3-way Switch Breakout Board
 
-Eagle files for the three-way switch breakout board
+Eagle files for the surface mount navigations switch from Sparkfun: https://www.sparkfun.com/products/8184
